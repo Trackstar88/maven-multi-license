@@ -95,7 +95,7 @@
     <dependency>
       <groupId>cz.cvut.kbss.jopa</groupId>
       <artifactId>ontodriver-owlapi</artifactId>
-      <version>0.17.2</version>
+      <version>0.16.3</version>
     </dependency>
     <dependency>
       <groupId>org.teiid</groupId>
